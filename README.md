@@ -2,11 +2,15 @@
 Bienvenidos
 
 Este es un proyecto en donde analizamos datos de la Entidad de Comunicacion de la Nacion Argentina para evaluar si conviene invertir, dónde y en qué tecnologias.
-Realizamos el Analisis de Datos Exploratorios en un Notebook de Jupyter y los visualizamos en un Dashboard de Power BI
+
+Realizamos el Analisis de Datos Exploratorios en un Notebook de Jupyter y los visualizamos en un Dashboard de Power BI.
+
 <img src=https://github.com/pablozmr/telecomunicaciones_pillofon/blob/main/image/home.png>
 ## Requerimientos del proyecto:
+
 Para poder trabajar con los datos de forma deseada, lo primero que debemos hacer es ver la calidad de los datos en los datasets que disponemos, luego manipularlos de tal forma que nos sean utiles. Para la transformacion de los datos utilizamos las librerias Pandas y Numpy de python.
-Luego, para su analisis utilizamos las librerias matplotlib y Seaborn para graficar los datos y poder sacar conclusiones. El ultimo paso es la creacion del Dashboard en Power BI
+
+Luego, para su analisis utilizamos las librerias matplotlib y Seaborn para graficar los datos y poder sacar conclusiones. El ultimo paso es la creacion del Dashboard en Power BI.
 
 Estructura de contenido
 
@@ -35,6 +39,7 @@ Estructura de contenido
   Este tablero de datos interactivo esta creado con datasets del extraidos de la pagina de ENACOM, procesados de manera local. 
   
 Tiene una introduccion, donde se analiza en primer lugar el acceso promedio a internet de la poblacion en Argentina para evaluar si es rentable invertir segun la curva de su crecimiento.
+
 <img src=https://github.com/pablozmr/telecomunicaciones_pillofon/blob/main/image/acceso.png>
 
   Luego analizamos el crecimiento de la demanda de tecnologias aplicadas para llevar el internet al hogar y la cantidad de accesos historico que tiene cada una. Sacamos la conclusion de que es muy favorable invertir en la tecnologia de Fibra Optica, ya que no representa ni siquiera un 25% del total de las tecnologias establecidas y las demas tecnologias estan en caida.
