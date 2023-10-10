@@ -6,6 +6,7 @@ Este es un proyecto en donde analizamos datos de la Entidad de Comunicacion de l
 Realizamos el Analisis de Datos Exploratorios en un Notebook de Jupyter y los visualizamos en un Dashboard de Power BI.
 
 <img src=https://github.com/pablozmr/telecomunicaciones_pillofon/blob/main/image/home.png>
+
 ## Requerimientos del proyecto:
 
 Para poder trabajar con los datos de forma deseada, lo primero que debemos hacer es ver la calidad de los datos en los datasets que disponemos, luego manipularlos de tal forma que nos sean utiles. Para la transformacion de los datos utilizamos las librerias Pandas y Numpy de python.
